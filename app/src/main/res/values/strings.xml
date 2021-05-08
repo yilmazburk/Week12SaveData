@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week12SaveData</string>
+    <string name="add_activity">Insert Data</string>
+    <string name="modify_activity">Modify Data</string>
+</resources>
